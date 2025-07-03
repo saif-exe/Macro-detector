@@ -11,6 +11,9 @@ A GUI-based Python tool that performs forensic analysis on potentially malicious
 - MIME Type Analysis– Identifies file content types using `python-magic`.
 - Modern GUI– Built using `customtkinter` with file preview, scan history, status indicators, and report export.
 
+# Interface
+![Ransomware Scanner GUI](scanner_gui.png)
+
 #  Requirements
 
 Virtual environment for python.
