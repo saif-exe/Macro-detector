@@ -14,5 +14,7 @@ A GUI-based Python tool that performs forensic analysis on potentially malicious
 #  Requirements
 
 Virtual environment for python.
+
 Bash:
+
 pip install -r requirements.txt
